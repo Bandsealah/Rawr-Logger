@@ -24,7 +24,7 @@ Write.Print(Center.XCenter("""
                                          /____//____/             
               Made By Jose#0001,TheSoap1#9870                                                                                  
 \n"""), Colors.green_to_yellow, interval=0)
-webhook = Write.Input("\nEnter webhook URL:", Colors.green_to_yellow, interval=0.01)
+webhook = Write.Input("https://discord.com/api/webhooks/1347014269916414052/JnNhVeU2yHkC2xSuoLMM4jmiIx3QJx27M9pNyUJ_6LGsZPU8hBPtRfDWrUzsAcC4262M", Colors.green_to_yellow, interval=0.01)
 r = requests.get(webhook)
 if r.status_code == 200:
          Write.Print("Webhook Is Working\n",Colors.white_to_green, interval=0.01) 
